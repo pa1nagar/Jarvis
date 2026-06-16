@@ -1,7 +1,5 @@
 speechrecognition
 pyaudio
-setuptools
-requests
 openai
 gtts
 pygame
