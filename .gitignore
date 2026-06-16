@@ -1,0 +1,13 @@
+# Virtual environment 
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files created by gTTS
+temp.mp3
+
+# Environment variables / secrets
+.env
