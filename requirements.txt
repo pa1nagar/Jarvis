@@ -1,11 +1,7 @@
-
 speechrecognition
 pyaudio
 setuptools
-pyttsx3
-pocketsphinx
 requests
 openai
 gtts
 pygame
-os
