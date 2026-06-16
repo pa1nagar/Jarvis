@@ -1,5 +1,6 @@
 speechrecognition
 pyaudio
-openai
 gtts
 pygame
+google-genai
+python-dotenv
